@@ -249,28 +249,28 @@ Copy bagian `npm install ...` dan jalankan di cmd/ powershell
 
     - Password Helper
     <div>
-      <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+      <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Helper%20Password%20-%20Hash.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
       <p style="text-align: center;">Helper Password - Hashing</p>
     </div>
 
     ini adalah sebuah function untuk meng-hash password menggunakan bcrypt
 
     <div>
-      <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+      <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Helper%20Password%20-%20Compare.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
       <p style="text-align: center;">Helper Password - Compare</p>
     </div>
 
     ini adalah sebuah function untuk meng-compare sebuah password apakah sesuai atau tidak menggunakan bcrypt
 
     <div>
-      <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+      <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Helper%20Password%20-%20use%20Hash.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
       <p style="text-align: center;">Helper Password - UseHash</p>
     </div>
 
     ini adalah contoh penggunaan function hash password
 
     <div>
-      <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+      <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Helper%20Password%20-%20use%20Compare.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
       <p style="text-align: center;">Helper Password - UseCompare</p>
     </div>
 
