@@ -233,7 +233,7 @@ Copy bagian `npm install ...` dan jalankan di cmd/ powershell
 
     - Generate Token
     <div>
-      <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+      <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Generate%20Token.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
       <p style="text-align: center;">Generate Token</p>
     </div>
 
@@ -241,7 +241,7 @@ Copy bagian `npm install ...` dan jalankan di cmd/ powershell
 
     - Extract Token
     <div>
-      <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+      <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Extract%20Token.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
       <p style="text-align: center;">Extract Token</p>
     </div>
 
