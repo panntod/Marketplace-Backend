@@ -180,14 +180,14 @@ Opsi konfigurasi lainnya termasuk timestamps untuk kolom timestamp otomatis, seq
 
 - Connection Database
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Database%20-%20Config%20js.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: center;">Database - Config</p>
 </div>
 
 mengubah konfigurasi dari `config` menjadi `js` supaya bisa di exports.modules dan digunakan difile lain
 
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Database%20-%20Connect%20ts.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: center;">Database - Connection</p>
 </div>
 
