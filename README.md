@@ -323,7 +323,7 @@ ini adalah logika tambahan untuk memastikan bahwa email user yang diregistrasika
 
 - Standardized Controller
     <div>
-      <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+      <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Standardized%20Controller.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
       <p style="text-align: center;">Standardized Controller</p>
     </div>
 
