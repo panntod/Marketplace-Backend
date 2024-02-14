@@ -278,7 +278,7 @@ Copy bagian `npm install ...` dan jalankan di cmd/ powershell
 - Authorization
     - Role Validation
     <div>
-      <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+      <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Role%20Validation.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
       <p style="text-align: center;">Middleware - Role Validation</p>
     </div>
 
@@ -286,7 +286,7 @@ Copy bagian `npm install ...` dan jalankan di cmd/ powershell
 
     - Authentication
     <div>
-      <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+      <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Authenticate.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
       <p style="text-align: center;">Middleware - Authenticate</p>
     </div>
 
@@ -294,28 +294,28 @@ Copy bagian `npm install ...` dan jalankan di cmd/ powershell
 
 - Validator input
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Validate%20input%20-%20data.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: center;">Validate input - Data</p>
 </div>
 
 ini adalah proses mengambil data dari inputan
 
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Validate%20input%20-%20rules.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: center;">Validate input - Rules</p>
 </div>
 
 ini adalah pembuatan rules untuk memastikan bahwa inputan memenuhi seluruh rules
 
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
-    <p style="text-align: center;">Validate input - Rules</p>
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Validate%20input%20-%20fails.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <p style="text-align: center;">Validate input - Fails</p>
 </div>
 
 jika rules tidak terpenuhi maka akan mengembalikan sebuah message error
 
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Validate%20input%20-%20email%20checked.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: center;">Validate input - email checked</p>
 </div>
 
