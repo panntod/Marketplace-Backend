@@ -195,14 +195,14 @@ membuat koneksi baru menggunakan sequelize dan megimpementasikannya langsunf, me
 
 - Instalasi `@types/`
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Error%20types%20-%20check.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: center;">Error types - Check</p>
 </div>
 
 Akan muncul tampilan error seperti ini jika anda belum menginstall `@types/` dari sebuah dependencies, lakukan langkah selanjutnya untuk mengatasi masalah ini:
 
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Error%20types%20-%20copy.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: center;">Error types - Copy</p>
 </div>
 
