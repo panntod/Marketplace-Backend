@@ -130,7 +130,7 @@ npx sequelize-cli db:migrate
 
 - Tabel Design
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/DatabaseDesign.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: center;">Desain Table Database</p>
 </div>
 
@@ -138,14 +138,14 @@ ini adalah struktur data yang akan dibuat, tabel user dan role memiliki koneksi 
 
 - Models `typeScript`
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Model%20ts%20-%20Import.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: center;">Model ts - Import</p>
 </div>
 
 Import connesction db dan juga beberapa kebutuhan dari `sequelize`
 
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Model%20ts%20-%20Implements.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: center;">Model ts - Implements</p>
 </div>
 
@@ -154,7 +154,7 @@ Memperluas kelas Model dari Sequelize dan mengimplementasikan antarmuka RoleAttr
 Kelas ini mendefinisikan properti (id, roleName, active, createdAt, dan updatedAt) yang sesuai dengan kolom-kolom di database.
 
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Model%20ts%20-%20Export.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: center;">Model ts - Exports</p>
 </div>
 
@@ -166,7 +166,7 @@ Sebuah antarmuka yang mewakili properti output dari sebuah Role yang sudah teris
 Menggunakan utilitas Required dari Sequelize, dengan menentukan bahwa semua properti harus diisi.
 
 <div>
-    <img src="https://github.com/panntod/School-Lib-Modul/blob/main/table-designer.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="https://github.com/panntod/Marketplace-Backend/blob/main/doc/Model%20ts%20-%20Init.png?raw=true" alt="foto table desiger" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: center;">Model ts - Init</p>
 </div>
 
