@@ -7,14 +7,15 @@ dotenv.config()
 const app = express();
 const port = process.env.APP_PORT;
 const nameApp = process.env.APP_NAME
+const corsOrigin ={
+  origin:'http://localhost:3000', 
+  credentials:true,            
+  optionSuccessStatus:200
+}
+
 app.use(express.json());
 app.use(cookieParser());
-app.use(cors());
-
-app.use(cors({
-  origin: 'http://localhost:3000',
-  credentials: true,
-}));
+app.use(cors(corsOrigin));
 
 import main from "./routes/main"
 
